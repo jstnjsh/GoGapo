@@ -463,7 +463,8 @@ body {
         padding-bottom: 50px;
     }
 
-    .hero-content { margin-top: 130px; }   /* clears the fixed navbar */
+    .hero-content { margin-top: 0;
+                  padding-top: 130px;}   /* clears the fixed navbar */
 
     .title-group { padding: 10px 16px 20px; }
 
